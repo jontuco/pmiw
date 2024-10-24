@@ -1,3 +1,7 @@
+//https://www.youtube.com/watch?v=0YcpmRyI518
+//ara martino saravi 91595/3
+//franco panetta lozano 94806/7
+
 let anchoPantalla = 640;
 let altoPantalla = 480;
 
